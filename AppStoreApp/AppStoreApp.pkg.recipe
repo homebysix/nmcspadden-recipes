@@ -11,7 +11,7 @@
         <key>NAME</key>
         <string>AppStoreApp</string>
         <key>PATH</key>
-        <string>/Applications/%NAME%.app</string>
+        <string>/Applications/AppStoreApp.app</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.3.0</string>
